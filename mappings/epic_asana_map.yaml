@@ -1,0 +1,6 @@
+# Optional Epic -> Asana fallback mapping
+# Example:
+# EPIC-123: 1122334455667788  # Asana project/task id
+
+EPIC-123: "12001234567890"   # Asana project GID
+EPIC-456: "12009876543210"
