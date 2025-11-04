@@ -54,6 +54,7 @@ Designed for enterprise environments running **VS Code**, and **GitHub**, this b
 
     /tools/sync_one_feature
 
+```bash
 jira-asana-mcp/
 ├─ app/
 │  ├─ server.py              # FastAPI + MCP HTTP layer
@@ -68,6 +69,7 @@ jira-asana-mcp/
 ├─ requirements.txt
 ├─ .env.example
 └─ README.md
+```
 
 ## Quick Start (Local)
 
